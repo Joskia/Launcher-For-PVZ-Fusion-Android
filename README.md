@@ -31,8 +31,8 @@ Al parchear un juego, FusionCore inyecta y ejecuta un runtime CoreCLR + BepInEx 
 
 ### 🎮 Juegos detectados en el manifiesto
 
-- 🌻 `com.LanPiaoPiao.PlantsVsZombiesES`
-- 🌻 `com.LanPiaoPiao.PlantsVsZombiesRH`
+-  `com.LanPiaoPiao.PlantsVsZombiesES`
+-  `com.LanPiaoPiao.PlantsVsZombiesRH`
 - Soporte genérico para actividades Unity (`unity3d.player.UnityPlayerActivity`), Firebase Messaging y otras integraciones (Among Us / `innersloth.spacemafia`, `teamcuriosity.addons`).
 
 ### 🚀 Uso típico
@@ -67,8 +67,8 @@ When patching a game, FusionCore injects and runs a CoreCLR + BepInEx runtime in
 
 ### 🎮 Games detected in the manifest
 
-- 🌻 `com.LanPiaoPiao.PlantsVsZombiesES`
-- 🌻 `com.LanPiaoPiao.PlantsVsZombiesRH`
+-  `com.LanPiaoPiao.PlantsVsZombiesES`
+-  `com.LanPiaoPiao.PlantsVsZombiesRH`
 - Generic support for Unity activities (`unity3d.player.UnityPlayerActivity`), Firebase Messaging, and other integrations (Among Us / `innersloth.spacemafia`, `teamcuriosity.addons`).
 
 ### 🚀 Typical usage
